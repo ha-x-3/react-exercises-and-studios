@@ -7,9 +7,14 @@
 }
 
 .choresHeading {
-   color: pink;
+   color: rgb(200, 148, 157);
    font-family:'Trebuchet MS', sans-serif;
    font-size: 3.0vw;
    text-decoration: underline;
    text-align: left;
+}
+
+.choresBody {
+   background-color: lightgrey;
+   border: 1px dashed black;
 }
