@@ -1,7 +1,15 @@
 .choresText {
-   color: black;
+   color: purple;
+   font-family:'Trebuchet MS', sans-serif;
+   font-size: 1.5vw;
+   font-style: italic;
+   text-align: left;
 }
 
 .choresHeading {
-   color: black;
+   color: pink;
+   font-family:'Trebuchet MS', sans-serif;
+   font-size: 3.0vw;
+   text-decoration: underline;
+   text-align: left;
 }
