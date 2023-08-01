@@ -2,6 +2,6 @@ import styles from './Description.module.css';
 
 export default function RecipePhoto () {
    return (
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_gE6N-7D2UAXf63KIUvL9zbKeHnHTF2JNw&usqp=CAU" alt="recipe photo" className = {styles.imageUpdates} />
+      <img src="https://www.gimmesomeoven.com/wp-content/uploads/2009/09/Homemade-Pumpkin-Spice-Latte-Recipe-1-1-1365x2048.jpg" alt="Pumpkin Spice Latte" className = {styles.imageUpdates} height="750px" />
    );
 }
