@@ -1,0 +1,22 @@
+.nail {
+  display: flex;
+  object-fit: contain;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+}
+
+img {
+  height: 35vh;
+  rotate: 90deg;
+  background-color: aliceblue;
+  box-shadow: 0 0 50px 50px #d1b9bd inset;
+  border-radius: 50%;
+  object-fit: contain;
+}
+
+.imageContainer {
+  height: 100%;
+  margin: 40px;
+}
