@@ -1,0 +1,33 @@
+{ 
+  "projects": [
+  {
+    "name": "Galaxy",
+    "method": "Cat eye metallic paint with stamping",
+    "photoUrl": "assets/images/catEyeStamp.png",
+    "alt": "Cat eye with stamp"
+  },
+  {
+    "name": "Cat",
+    "method": "Metallic powder with stamping",
+    "photoUrl": "assets/images/catStamp.png",
+    "alt": "Cat with metallic powder"
+  },
+  {
+    "name": "Dog",
+    "method": "Reverse stamping",
+    "photoUrl": "assets/images/dogReverseStamp.png",
+    "alt": "Dog reverse stamp"
+  },
+  {
+    "name": "Island Reflection",
+    "method": "Stamping",
+    "photoUrl": "assets/images/islandStamp.png",
+    "alt": "Island reflection stamping"
+  },
+  {
+    "name": "Whale",
+    "method": "Stamping",
+    "photoUrl": "assets/images/whaleStamp.png",
+    "alt": "Whale stamping"
+  }
+]}
