@@ -8,7 +8,7 @@ const RecipeAuthor = () => {
 
    return (
       <div className = {styles.recipeAuthorBlock}>
-         <img src={authorPhoto} alt = "Ali Martin" className={styles.imageUpdates} height="400px" />
+         <img src={authorPhoto} alt = "Ali Martin" className={styles.imageUpdates} height="350px" />
          <div>
             <h3>{authorName}</h3>
             <a href={authorLink}>Gimme Some Oven</a> 

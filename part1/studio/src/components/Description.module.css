@@ -1,8 +1,15 @@
 .recipeAuthorBlock {
    display: flex;
    justify-content: space-evenly;
+   flex-direction: column;
 }
 
 .imageUpdates {
    object-fit: contain;
+}
+
+.infoBlock {
+   padding-top: 10px;
+   display: flex;
+   flex-direction: column;
 }

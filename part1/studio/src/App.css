@@ -41,3 +41,14 @@
   display: flex;
   justify-content: space-evenly;
 }
+
+body {
+  background-image: url(./images/leaves.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+img {
+  border-radius: 8px;
+}
