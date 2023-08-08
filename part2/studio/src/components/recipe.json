@@ -1,18 +1,13 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
-     "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
-     ]
+     "name": "Pumpkin Spice Latte",
+     "author": "Ali Martin",
+     "description": "Delicious restautant style latte without the markup!",
+     "website": "https://www.gimmesomeoven.com/about/",
+     "websiteName": "Gimme Some Oven",
+     "recipeImage": "https://www.gimmesomeoven.com/wp-content/uploads/2009/09/Homemade-Pumpkin-Spice-Latte-Recipe-1-1-1365x2048.jpg",
+     "authorImage": "https://www.gimmesomeoven.com/wp-content/uploads/2021/10/Ali-Martin-Barcelona-Kitchen-1392-1-1365x2048.jpg",
+     "ingredients": ["2 Shot Espresso", "1 Tbsp Pumpkin Puree", "2 tsp Maple Syrup", "1/2 tsp Vanilla Extract", "1/4 tsp Pumpkin Pie Spice", "Pinch of Sea Salt", "1 Cup Milk", "Whipped Cream and Pumpkin Pie Spice for Topping"]
    }
  ]
  

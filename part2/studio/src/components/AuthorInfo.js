@@ -12,7 +12,7 @@ function AuthorInfo() {
   ));
   const recipeWebsite = recipedata.map((data) => (
     <div key={data.name}>
-      <a href={data.website}>{data.website}</a>
+      <a href={data.website}>{data.websiteName}</a>
     </div>
   ));
    return (
