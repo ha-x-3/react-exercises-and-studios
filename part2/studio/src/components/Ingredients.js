@@ -1,4 +1,5 @@
 import recipedata from "./recipe.json";
+import "../App.css";
 
 function IngredientList() {
   return (

@@ -3,7 +3,7 @@ import './styling.css'
 
 function AuthorInfo() {
   const recipeAuthor = recipedata.map((data) => (
-    <div key={data.name}>{data.author}</div>
+    <div key={data.name}>Recipe By: {data.author}</div>
   ));
   const recipeAuthorImage = recipedata.map((data) => (
     <div key={data.name}>
