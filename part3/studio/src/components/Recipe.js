@@ -15,10 +15,10 @@ const RecipeAuthor = () => {
 }
 
 const RecipeIngredients = () => {
-   const ingredients = ["2 Shot Espresso", "1 Tbsp Pumpkin Puree", "2 tsp Maple Syrup", "1/2 tsp Vanilla Extract", "1/4 tsp Pumpkin Pie Spice", "Pinch of Sea Salt", "1 Cup Milk", "Whipped Cream and Pumpkin Pie Spice for Topping"];
+   const ingredients = ["2 Shots Espresso", "1 Tbsp Pumpkin Puree", "2 tsp Maple Syrup", "1/2 tsp Vanilla Extract", "1/4 tsp Pumpkin Pie Spice", "Pinch of Sea Salt", "1 Cup Milk", "Whipped Cream and Pumpkin Pie Spice for Topping"];
    return(
       <div>
-         <h3>Recipe Ingredients</h3>
+         <h3>Recipe Ingredients:</h3>
          <ul>
             <li>{ingredients[0]}</li>
             <li>{ingredients[1]}</li>
@@ -35,8 +35,8 @@ const RecipeIngredients = () => {
 
 const RecipeDescription = () => {
    return (
-      <div> 
-         <div>
+      <div className="recipeBlock"> 
+         <div className="title">
             <h1>Pumpkin Spice Latte</h1>
             <p>Delicious latte without the coffee shop markup!</p>
          </div>
