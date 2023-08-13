@@ -1,5 +1,11 @@
 .introduction {
-  width: 35vw;
+  width: 38vw;
   margin: 0 auto;
   height: 25vh;
+  display: flex;
+  flex-direction: column;
+}
+
+li {
+  font-size: 1.2rem;
 }
